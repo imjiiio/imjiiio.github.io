@@ -1,2 +1,2 @@
-# imjiiio.gtthub.io
+# imjiiio.github.io
 This is my portfolio website!
